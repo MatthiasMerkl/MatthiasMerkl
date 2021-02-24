@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Portfolio (s)](#)
 
-- 🌱 I’m currently learning **php**
+- 🌱 I’m currently learning **Vue.js**
 
 - 📝 I regulary write articles on [https://dev.to/merklwebdesign](https://dev.to/merklwebdesign)
 
