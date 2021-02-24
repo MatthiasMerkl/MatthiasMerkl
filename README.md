@@ -7,7 +7,7 @@
 
 ---
 
-- 🔭 I’m currently working on [Portfolio (s)](#)
+- 🔭 I’m currently working on [CS-Operation (Vue Application)](#)
 
 - 🌱 I’m currently learning **Vue.js**
 
