@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on [Lernbox Online (Web Application)](https://lernbox.online/)
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **Next.js**
 
 - 📝 I regulary write articles on [https://dev.to/merklwebdesign](https://dev.to/merklwebdesign)
 
-- 📫 How to reach me **matthias@merkl.org**
+- 📫 How to reach me **m.merkl@codesk.studio**
 
 ### Languages and Tools:
 
